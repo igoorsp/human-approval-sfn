@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="lambda-approval" value="lambda-approval" />
+        <entry key="lambda-send-email" value="lambda-send-email (1)" />
+      </map>
+    </option>
+  </component>
+</project>

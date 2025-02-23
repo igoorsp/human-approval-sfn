@@ -1,2 +1,2 @@
 # human-approval-sfn
-PoCs para cenarios de Human Aprroval com Step Functions.
+PoCs para cenarios de Human Approval com Step Functions.

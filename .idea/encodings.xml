@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/lambda-approval/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/lambda-approval/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/lambda-send-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/lambda-send-email/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-ses/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-sns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/human-approval-sqs-sns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled1/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
